@@ -1,0 +1,9 @@
+allRelevant_dict:  ALL features that were ever deemed relevant
+relevant_dict:     ONLY features that were relevant across ALL trials 
+
+0:                 EPAH vs PAH
+1:                 Control vs EPAH
+2:                 Control vs PAH
+
+_standardized:     Applied standardization by mean / standard dev. on raw waveform
+                   & Applied interp to lengthen all waveforms to uniform length

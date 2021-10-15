@@ -1,5 +1,7 @@
-allRelevant_dict:  ALL features that were ever deemed relevant
-relevant_dict:     ONLY features that were relevant across ALL trials 
+allRelevant_dict:            ALL features that were ever deemed relevant
+relevant_dict:               ONLY features that were relevant across ALL trials
+calculated_features:         Values for ALL features for ALL waveforms
+calculated_relevantFeatures: Values for ONLY RELEVANT features for ALL waveforms
 
 0:                 EPAH vs PAH
 1:                 Control vs EPAH
